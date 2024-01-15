@@ -7,7 +7,7 @@ aside{
     background: #770000;
     width: 20%;
     padding: 2,5%;
-    height:80vh;
+    height:110vh;
     color:#fff;
     border-right: 5px solid #3b444b;
 }
@@ -38,21 +38,28 @@ aside h2{
 }
 
 footer{
-    float: bottom;
-    padding-top: 83vh;
+    float: left;
     background: #770000;
-    width:20%;
-    padding: 2,5%;
+    height: 10vh;
+    width:100%;
     color:#fff;
-    border-right: 5px solid #3b444b;
+    border-top: 5px solid #3b444b;
 }
 
 footer ul li {
-    padding-left:10px;
-    padding-bottom:10px;
     font-size:12px;
 }
 
 footer ul{
+    padding-top: 20px;
     list-style:none;
+    display: flex;
+}
+
+.description{
+    padding-left: 280px;
+}
+
+main h3{
+    padding-left: 280px;
 }
