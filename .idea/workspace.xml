@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9612437-eb71-4846-be50-3dc554f90288" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/analytic/static/main/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/analitic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/analitic/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/analitic/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/analitic/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/analitic/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/static/main/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/static/main/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/templates/main/geography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/templates/main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/templates/main/last_vacancies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/templates/main/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/templates/main/relevance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/templates/main/skills.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/main/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analitic/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/djangoProject_URFU/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/djangoProject_URFU/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/djangoProject_URFU/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/djangoProject_URFU/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/migrations/0002_skills_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/migrations/0002_skills_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/templates/main/geography.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/templates/main/geography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/templates/main/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/templates/main/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/templates/main/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/templates/main/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/templates/main/mainpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/templates/main/mainpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/templates/main/skills.html" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/templates/main/skills.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/media/demand/quanity.png" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/media/demand/quanity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/media/demand/salary.png" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/media/demand/salary.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/media/home/moneyman-poluchit-konsultaciyu-po-nomeru-telefona-goryachej-linii-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/media/skills/download_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/media/skills/download_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytic/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/analytic/static/main/css/main.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/analytic" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bAsL9IaNRdh3qCjZJ8NFKqGLeZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LeraS\PycharmProjects\pythonProject\site_examle\static\main\img" />
+      <recent name="C:\Users\LeraS\PycharmProjects\pythonProject\site_examle\media\home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Python-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9612437-eb71-4846-be50-3dc554f90288" name="Changes" comment="" />
+      <created>1705669159024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705669159024</updated>
+    </task>
+    <servers />
+  </component>
+</project>
