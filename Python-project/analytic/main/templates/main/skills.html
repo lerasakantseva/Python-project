@@ -1,0 +1,19 @@
+{% extends 'main/mainpage.html' %}
+{% load static %}
+{% block content %}
+<title>Навыки</title>
+    <div>
+    {{ skillspage.text|safe }}
+        <div class="row" style="padding: 1% 13% 1% 13%">
+            <h3>Список самых популярных скиллов по годам для аналитика</h3>
+            <p></p>
+            <img width="60%" src="{% static 'main/img/by-years.jpg' %}"/>
+            <p></p>
+            <p></p>
+            <h3>Список самых популярных скиллов по годам для всех профессий</h3>
+            <p></p>
+            <img width="60%" src="{% static 'main/img/skills.jpg' %}"/>
+            <p></p>
+        </div>
+    </div>
+{% endblock %}
